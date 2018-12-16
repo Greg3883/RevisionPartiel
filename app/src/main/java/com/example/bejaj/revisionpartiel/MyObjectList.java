@@ -19,4 +19,8 @@ public class MyObjectList {
     public void setMusics(List<MyObject> musics) {
         this.shows = musics;
     }
+
+    public void insertObj(MyObject obj) {
+        this.shows.add(obj);
+    }
 }
