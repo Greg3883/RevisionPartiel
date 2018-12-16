@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RevisionPartiel</string>
+    <string name="title_activity_serie_detail">SerieDetailActivity</string>
 </resources>
